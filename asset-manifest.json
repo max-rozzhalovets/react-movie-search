@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/react-movie-search/static/css/main.086c7fa4.css",
-    "main.js": "/react-movie-search/static/js/main.18505027.js",
+    "main.js": "/react-movie-search/static/js/main.cf2363f2.js",
     "home-page.css": "/react-movie-search/static/css/home-page.41c44d2d.chunk.css",
-    "home-page.js": "/react-movie-search/static/js/home-page.da49d569.chunk.js",
+    "home-page.js": "/react-movie-search/static/js/home-page.63c47592.chunk.js",
     "movies.css": "/react-movie-search/static/css/movies.9dfd3423.chunk.css",
-    "movies.js": "/react-movie-search/static/js/movies.0d760b58.chunk.js",
+    "movies.js": "/react-movie-search/static/js/movies.870471c0.chunk.js",
     "film.css": "/react-movie-search/static/css/film.8d964c91.chunk.css",
     "film.js": "/react-movie-search/static/js/film.cc924f00.chunk.js",
     "static/js/163.b17bedae.chunk.js": "/react-movie-search/static/js/163.b17bedae.chunk.js",
     "static/media/defaultPoster.jpg": "/react-movie-search/static/media/defaultPoster.e324e889e33192c4bf13.jpg",
     "index.html": "/react-movie-search/index.html",
     "main.086c7fa4.css.map": "/react-movie-search/static/css/main.086c7fa4.css.map",
-    "main.18505027.js.map": "/react-movie-search/static/js/main.18505027.js.map",
+    "main.cf2363f2.js.map": "/react-movie-search/static/js/main.cf2363f2.js.map",
     "home-page.41c44d2d.chunk.css.map": "/react-movie-search/static/css/home-page.41c44d2d.chunk.css.map",
-    "home-page.da49d569.chunk.js.map": "/react-movie-search/static/js/home-page.da49d569.chunk.js.map",
+    "home-page.63c47592.chunk.js.map": "/react-movie-search/static/js/home-page.63c47592.chunk.js.map",
     "movies.9dfd3423.chunk.css.map": "/react-movie-search/static/css/movies.9dfd3423.chunk.css.map",
-    "movies.0d760b58.chunk.js.map": "/react-movie-search/static/js/movies.0d760b58.chunk.js.map",
+    "movies.870471c0.chunk.js.map": "/react-movie-search/static/js/movies.870471c0.chunk.js.map",
     "film.8d964c91.chunk.css.map": "/react-movie-search/static/css/film.8d964c91.chunk.css.map",
     "film.cc924f00.chunk.js.map": "/react-movie-search/static/js/film.cc924f00.chunk.js.map",
     "163.b17bedae.chunk.js.map": "/react-movie-search/static/js/163.b17bedae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.086c7fa4.css",
-    "static/js/main.18505027.js"
+    "static/js/main.cf2363f2.js"
   ]
 }
